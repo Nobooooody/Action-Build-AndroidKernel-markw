@@ -1,4 +1,4 @@
-name: Action_Build_android_markw_kernel_xiaomi_marke_new
+name: Build_android_pstar_kernel_motorola_pstar_new
 
 on:
   workflow_dispatch:
